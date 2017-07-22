@@ -9,3 +9,21 @@
   /* For Firefox 3.6 to 15 */
   background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(224, 23, 3, 0.6));
   /* Standard syntax */ }
+
+p.category {
+  text-align: center;
+}
+
+img.rounded{
+  width: 200px;
+  height: 200px;
+  margin-left: 10%;
+}
+
+div.container h2 {
+    text-align: center;
+}
+
+#palestrantes .row .col-sm-3{
+    margin: auto;
+}
