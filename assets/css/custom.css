@@ -36,3 +36,15 @@ div.container h2 {
     margin-left: auto;
     margin-right: auto;
 }
+
+#btn-edital {
+    margin-bottom: 2%;
+}
+
+#btn-edital a {
+    padding-left: 10%;
+}
+
+#modalSubmissaoLabel {
+    margin: auto;
+}
