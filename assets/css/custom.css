@@ -27,3 +27,12 @@ div.container h2 {
 #palestrantes .row .col-sm-3{
     margin: auto;
 }
+
+#inscrsubs h2 {
+    margin-bottom: 5%;
+}
+
+#conheca iframe{
+    margin-left: auto;
+    margin-right: auto;
+}
