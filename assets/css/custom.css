@@ -22,6 +22,12 @@
     margin-bottom: 1em;
 }
 
+@media(max-width: 500px){
+    #main-data {
+        font-size: 1em;
+    }
+}
+
 p.category {
   text-align: center;
 }
