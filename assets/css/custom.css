@@ -80,3 +80,7 @@ div.container h2 {
 .progdata h6 {
     margin: auto;
 }
+
+.card-signup {
+    max-width: 400px;
+}
