@@ -10,6 +10,18 @@
   background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(224, 23, 3, 0.6));
   /* Standard syntax */ }
 
+#main-logo {
+  margin-top: 6em;
+  margin-bottom: -2em;
+  width: 40em;
+  height: auto;
+}
+
+#main-data {
+    font-size: 1.4em;
+    margin-bottom: 1em;
+}
+
 p.category {
   text-align: center;
 }
@@ -83,4 +95,26 @@ div.container h2 {
 
 .card-signup {
     max-width: 400px;
+}
+
+@media(max-width: 991px){
+    .card-signup {
+        margin-bottom: 1em;
+}
+    .section-signup {
+        padding-top: none;
+    }
+}
+
+.textarea-container {
+    margin-bottom: 2%;
+}
+
+#progaviso {
+    text-align: center;
+}
+
+#ast {
+    color: red;
+    font-weight: bold;
 }
