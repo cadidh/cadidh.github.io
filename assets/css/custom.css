@@ -29,6 +29,7 @@ div.container h2 {
 }
 
 #inscrsubs h2 {
+    margin-top: -10%;
     margin-bottom: 5%;
 }
 
@@ -47,4 +48,9 @@ div.container h2 {
 
 #modalSubmissaoLabel {
     margin: auto;
+}
+
+#tutobtn {
+    margin-bottom: 0px;
+    margin-top: -20px;
 }
