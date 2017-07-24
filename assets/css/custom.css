@@ -50,10 +50,6 @@ div.container h2 {
     margin-bottom: -5%;
 }
 
-#inscrsubs {
-
-}
-
 #inscrsubs h2 {
     /*margin-top: -10%;*/
     margin-bottom: 5%;
@@ -128,4 +124,15 @@ div.container h2 {
 #ast {
     color: red;
     font-weight: bold;
+}
+
+#local-cont-esq {
+    text-align: center;
+    font-size: 1.3em;
+}
+
+#local-cont-esq img {
+    margin-bottom: 5%;
+    height: auto;
+    width: 140%;
 }
