@@ -50,6 +50,10 @@ div.container h2 {
     margin-bottom: -5%;
 }
 
+#inscrsubs {
+
+}
+
 #inscrsubs h2 {
     /*margin-top: -10%;*/
     margin-bottom: 5%;
@@ -103,12 +107,13 @@ div.container h2 {
     max-width: 400px;
 }
 
+.section-signup {
+    padding-top: 10vh !important;
+}
+
 @media(max-width: 991px){
     .card-signup {
         margin-bottom: 1em;
-}
-    .section-signup {
-        padding-top: none;
     }
 }
 
