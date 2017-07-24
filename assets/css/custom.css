@@ -29,7 +29,7 @@ div.container h2 {
 }
 
 #conheca {
-    margin-bottom: -10%;
+    margin-bottom: -5%;
 }
 
 #inscrsubs h2 {
@@ -61,6 +61,12 @@ div.container h2 {
 
 #progcard {
     padding: 4%;
+}
+
+@media(max-width: 490px){
+    #progcard {
+        padding: 7%;
+    }
 }
 
 .prog {
