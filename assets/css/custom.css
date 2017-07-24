@@ -28,8 +28,12 @@ div.container h2 {
     margin: auto;
 }
 
+#conheca {
+    margin-bottom: -10%;
+}
+
 #inscrsubs h2 {
-    margin-top: -10%;
+    /*margin-top: -10%;*/
     margin-bottom: 5%;
 }
 
@@ -53,4 +57,20 @@ div.container h2 {
 #tutobtn {
     margin-bottom: 0px;
     margin-top: -20px;
+}
+
+#progcard {
+    padding: 4%;
+}
+
+.prog {
+    padding: 4%;
+}
+
+.progdata {
+    margin-bottom: 5%;
+}
+
+.progdata h6 {
+    margin: auto;
 }
