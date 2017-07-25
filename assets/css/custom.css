@@ -146,3 +146,15 @@ div.container h2 {
 .index-page .page-header {
     height: 100vh;
 }
+
+#duvidas h2 {
+    margin-bottom: 5%;
+}
+
+.duvidas-div {
+    margin-top: 20px;
+}
+
+.text-duvidas {
+    font-size: 2em;
+}
