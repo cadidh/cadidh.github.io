@@ -147,6 +147,10 @@ div.container h2 {
     height: 100vh;
 }
 
+#duvidas {
+    margin-bottom: 3%;
+}
+
 #duvidas h2 {
     margin-bottom: 5%;
 }
