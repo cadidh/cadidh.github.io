@@ -162,3 +162,8 @@ div.container h2 {
 .text-duvidas {
     font-size: 2em;
 }
+
+#navbar-logo {
+    height: auto;
+    width: 10vh;
+}
