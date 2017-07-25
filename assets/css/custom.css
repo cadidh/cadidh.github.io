@@ -11,7 +11,7 @@
   /* Standard syntax */ }
 
 #main-logo {
-  margin-top: 6em;
+  margin-top: 10%;
   margin-bottom: -2em;
   width: 40em;
   height: auto;
@@ -51,7 +51,6 @@ div.container h2 {
 }
 
 #inscrsubs h2 {
-    /*margin-top: -10%;*/
     margin-bottom: 5%;
 }
 
@@ -137,6 +136,13 @@ div.container h2 {
     width: 140%;
 }
 
-#redes {
+#local,
+#redes,
+#conheca,
+#programacao {
     margin-top: -5%;
+}
+
+.index-page .page-header {
+    height: 100vh;
 }
