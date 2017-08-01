@@ -172,3 +172,17 @@ div.container h2 {
     height: auto;
     width: 40vh;
 }
+
+#palestrantes h6 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.modal-palestrante .modal-header .row {
+    margin: auto;
+}
+
+.modal-palestrante .modal-body img {
+    margin: auto;
+    margin-bottom: 10px;
+}
